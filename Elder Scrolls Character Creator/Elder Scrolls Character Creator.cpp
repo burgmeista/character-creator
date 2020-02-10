@@ -1,6 +1,14 @@
 #include <iostream>
 
+using namespace std;
+
+class Character
+{
+public:
+
+};
+
 int main()
 {
-    std::cout << "Hello World!\n";
+    cout << "Hello World!\n";
 }
